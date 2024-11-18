@@ -5,8 +5,8 @@ using namespace std;
 
 int main() {
     // Khởi tạo các phòng
-    Deluxe a("Deluxe A", 5, 200000, 150000);
-    Deluxe b("Deluxe B", 3, 100000, 100000);
+    Deluxe a("Deluxe A", 8, 430000, 150000);
+    Deluxe b("Deluxe B", 7, 100000, 100000);
     Premium c("Premium C", 7, 50000);
     Premium d("Premium D", 4, 60000);
     Business e("Business E", 10);
