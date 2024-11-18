@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1731947010 source:c:\users\vu181\onedrive\desktop\code\bai2_btth4\main.cpp
+	<bits/stdc++.h>
+	"Room.h"
+
+1731947033 c:\users\vu181\onedrive\desktop\code\bai2_btth4\room.h
+	<bits/stdc++.h>
+
+1731947033 source:c:\users\vu181\onedrive\desktop\code\bai2_btth4\room.cpp
+	<bits/stdc++.h>
+	"Room.h"
+
